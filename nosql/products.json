@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "P1001",
+    "name": "Wireless Earbuds",
+    "category": "Electronics",
+    "price": 59.99,
+    "stock": 140,
+    "description": "High-quality sound and long battery life"
+  },
+  {
+    "_id": "P1002",
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 39.99,
+    "stock": 75,
+    "description": "Ergonomic design with RGB lights"
+  },
+  {
+    "_id": "P1003",
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 15.49,
+    "stock": 200,
+    "description": "Keeps drinks hot or cold for hours"
+  },
+  {
+    "_id": "P1004",
+    "name": "Yoga Mat",
+    "category": "Sports",
+    "price": 24.99,
+    "stock": 85,
+    "description": "Non-slip surface and easy to carry"
+  },
+  {
+    "_id": "P1005",
+    "name": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 45,
+    "stock": 50,
+    "description": "Compact design with powerful sound"
+  },
+  {
+    "_id": "P1006",
+    "name": "Desk Lamp",
+    "category": "Office Supplies",
+    "price": 18.25,
+    "stock": 60,
+    "description": "LED lighting with adjustable brightness"
+  },
+  {
+    "_id": "P1007",
+    "name": "Cotton T-Shirt",
+    "category": "Clothing",
+    "price": 12.99,
+    "stock": 300,
+    "description": "Comfortable and breathable fabric"
+  },
+  {
+    "_id": "P1008",
+    "name": "Running Shoes",
+    "category": "Footwear",
+    "price": 79.99,
+    "stock": 45,
+    "description": "Lightweight and durable for daily use"
+  },
+  {
+    "_id": "P1009",
+    "name": "Portable Charger",
+    "category": "Electronics",
+    "price": 29.99,
+    "stock": 90,
+    "description": "Fast charging for multiple devices"
+  },
+  {
+    "_id": "P1010",
+    "name": "Coffee Maker",
+    "category": "Home Appliances",
+    "price": 99,
+    "stock": 40,
+    "description": "Brews coffee in minutes with ease"
+  }
+]

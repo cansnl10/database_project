@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "R2001",
+    "product_id": "P1001",
+    "username": "techlover99",
+    "rating": 5,
+    "comment": "Excellent sound quality!",
+    "date": "2025-03-20T12:34:00Z"
+  },
+  {
+    "_id": "R2002",
+    "product_id": "P1002",
+    "username": "gamerx",
+    "rating": 4,
+    "comment": "Good value for money.",
+    "date": "2025-03-21T09:18:00Z"
+  },
+  {
+    "_id": "R2003",
+    "product_id": "P1003",
+    "username": "ecoqueen",
+    "rating": 5,
+    "comment": "I love the design and durability.",
+    "date": "2025-03-22T15:45:00Z"
+  },
+  {
+    "_id": "R2004",
+    "product_id": "P1004",
+    "username": "fitlife",
+    "rating": 3,
+    "comment": "Decent quality but a bit thin.",
+    "date": "2025-03-23T08:10:00Z"
+  },
+  {
+    "_id": "R2005",
+    "product_id": "P1005",
+    "username": "musicfan",
+    "rating": 4,
+    "comment": "Great sound for its size.",
+    "date": "2025-03-23T11:50:00Z"
+  },
+  {
+    "_id": "R2006",
+    "product_id": "P1006",
+    "username": "student123",
+    "rating": 5,
+    "comment": "Perfect for studying late at night.",
+    "date": "2025-03-24T17:30:00Z"
+  },
+  {
+    "_id": "R2007",
+    "product_id": "P1007",
+    "username": "casualwear",
+    "rating": 4,
+    "comment": "Very comfy and good material.",
+    "date": "2025-03-24T20:15:00Z"
+  },
+  {
+    "_id": "R2008",
+    "product_id": "P1008",
+    "username": "runnerdude",
+    "rating": 5,
+    "comment": "Best running shoes I've owned.",
+    "date": "2025-03-25T07:25:00Z"
+  },
+  {
+    "_id": "R2009",
+    "product_id": "P1009",
+    "username": "mobilemaster",
+    "rating": 3,
+    "comment": "Charges well but a bit heavy.",
+    "date": "2025-03-25T10:00:00Z"
+  },
+  {
+    "_id": "R2010",
+    "product_id": "P1010",
+    "username": "coffeelover",
+    "rating": 5,
+    "comment": "Best way to start my mornings!",
+    "date": "2025-03-25T22:10:00Z"
+  }
+]
